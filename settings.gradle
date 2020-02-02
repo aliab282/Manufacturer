@@ -1,0 +1,2 @@
+include ':app', ':ManufacturerUtils'
+rootProject.name='Manufacturer'
