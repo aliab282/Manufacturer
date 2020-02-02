@@ -3,7 +3,7 @@ package com.example.manufacturerutils;
 import android.content.Context;
 import android.graphics.drawable.Drawable;
 
-public class manufacturerutils {
+public class ManufacturerUtils {
     /**
      * @param context      needed to interact with drawables from resource id
      * @param manufacturer short format name of the manufacturer.
