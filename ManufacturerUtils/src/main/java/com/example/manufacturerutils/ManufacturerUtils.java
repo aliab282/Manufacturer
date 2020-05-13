@@ -41,6 +41,7 @@ public class ManufacturerUtils {
                 break;
             case "Xiaomi":
                 resId = R.drawable.logo_xiaomi;
+                break;
             default:
                 resId = null;
         }
