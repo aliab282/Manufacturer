@@ -39,6 +39,8 @@ public class ManufacturerUtils {
             case "Motorola":
                 resId = R.drawable.logo_motorola;
                 break;
+            case "Xiaomi":
+                resId = R.drawable.logo_xiaomi;
             default:
                 resId = null;
         }
